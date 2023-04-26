@@ -1,0 +1,13 @@
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\DamoleActivityOne.csproj.AssemblyReference.cache
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\DamoleActivityOne.csproj.SuggestedBindingRedirects.cache
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControl1.resources
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControl2.resources
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\DamoleActivityOne.csproj.GenerateResource.cache
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\DamoleActivityOne.csproj.CoreCompileInputs.cache
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Joshua's files\User_Control-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
